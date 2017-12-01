@@ -10,6 +10,6 @@ Camera Effects
 
 This is my Camera Effects Project
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Nathan](https://github.com/nserna8/nserna8.github.io/blob/master/Nathan.PNG?raw=true "Optional Title")
 
 ***
